@@ -1,4 +1,4 @@
-# Australian Grand Prix
+# Australian Grand Prix Driver Performance Analysis
 
 ## Project Overview
 This project uses SQL to analyze driver performance throughout the Australian Grand Prix weekend. 
