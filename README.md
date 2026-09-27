@@ -64,3 +64,15 @@ NULL values were used when qualifying or finishing results were not available.
 - Calculated columns
 - Aliases
 - LIMIT
+
+## Key Findings
+- George Russell won the race and scored the most points with 25 points.
+- 10 driver scored at least one point
+- Charles Leclerc place first in Practice 1, Oscar Piastri placed first in Practice 2, and George Russell placed first in Practice 3
+- Lewis Hamilton had the best average practice position at 2.67
+- Oliver Bearman had the best gained the most positions from qualifying to the race, moving from 12th to 7th for a gain of 5 positions
+- Liam Lawson last the most positions from qualifying to the race, moving from 8th to 13th for a loss of 5 positions
+- Lando Norris showed the largest improvement from Practice 1 to the race, moving from 19th in Practice 1 to a 5ht-place race finish
+
+## Conclusion
+This project demonstrates my ability to use SQL to organize, query, and analyze structured data. Through this analysis, I practiced filtering, sorting, aggregation, NULL handling, calculated fields, and combing query results to answer questions about driver performance. 
